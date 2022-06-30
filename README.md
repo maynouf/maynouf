@@ -1,2 +1,2 @@
-- Currently working as a Backend Programmer and Data Analyst.
-- Interested in Energy, Environment and Economics.
+- 🍞 Currently working as a Backend Programmer and Data Analyst.
+- 🌲 Interested in Energy, Environment and Economics.
